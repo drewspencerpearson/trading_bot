@@ -10,4 +10,8 @@ day saying if the 10 day is below or above the 20 day.
 The label is 1, if the stock should be a buy (Label a buy if the stock price in the following three days had a high 
 greater than or equal to 5% higher from the open price on day 46.)
 
+you run buy_nobuy_v2.py with the correct version number to determine if the model recommends you should buy a stock or not. 
+
+The models are created from the notebook official_theory_adding_crossover.ipynb
+
 
